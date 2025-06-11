@@ -1,0 +1,11 @@
+identifier: ropixon_ZG_v5_0/nrf54l15/cpuapp
+name: Main control board for ZG
+vendor: Ropixon
+arch: arm
+toolchain:
+  - zephyr
+sysbuild: true
+ram: 188
+flash: 324
+supported: []
+
