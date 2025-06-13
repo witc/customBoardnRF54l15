@@ -7,5 +7,13 @@ toolchain:
 sysbuild: true
 ram: 188
 flash: 324
-supported: []
+supported:
+  - adc
+  - counter
+  - dmic
+  - gpio
+  - pwm
+  - retained_mem
+  - watchdog
+  - i2s
 
