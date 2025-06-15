@@ -1,0 +1,10 @@
+board:
+  name: ropixon_ZG_v5_0
+  vendor: Ropixon
+  socs:
+  - name: nrf54l15
+    variants:
+    - name: cpuapp
+      cpucluster: cpuapp
+    - name: xip
+      cpucluster: cpuflpr
